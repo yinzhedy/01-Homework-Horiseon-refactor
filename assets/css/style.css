@@ -86,23 +86,20 @@ p {
     background-color: #285C76;
 }
 /* Combined .benefit-lead, .benefit-brand, and .benefit cost */
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
+/* Created class name .benefitname in order to replace .benefit-lead, .benefit-brand, and benefit.cost */
+.benefitname {
     margin-bottom: 32px;
     color: #ffffff;
 }
 /* Combined .benefit-lead h3, .benefit-brand h3, and .benefit-cost h3 */
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3 {
+/* Created class name .benefitname in order to replace .benefit-lead, .benefit-brand, and benefit.cost */
+.benefitname h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 /* Combined .benefit-lead img, .benefit-brand img, and .benefit-cost img */
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
+/* Created class name .benefitname in order to replace .benefit-lead, .benefit-brand, and benefit.cost */
+.benefitname img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
