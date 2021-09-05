@@ -11,6 +11,13 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation
 Ensure link the style.css file within the index.html file in order to apply styling to the presented html code when viewing in browser. Make sure that index.html and assets folder are siblings of one another within the project folder. Next recheck that the css folder, containing style.css, and images folder, containing the jpg and png files, are siblings of one another within the assets folder. 
 ## Usage
+Link to deployed application:
+
+https://yinzhedy.github.io/01-Homework-Horiseon-refactor/
+
+The following image demonstrates the web application's appearance and functionality:
+
+![image](./assets/images/deployed-screenshot.png)
 
 ## Credits
 - Jack H. Ault
