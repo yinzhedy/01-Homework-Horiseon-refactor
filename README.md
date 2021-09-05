@@ -5,15 +5,19 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
-- [Usage](#usage)
+- [Link](#link)
+- [Screenshot](#screenshot)
 - [Credits](#credits)
 - [License](#license)
 ## Installation
-Ensure link the style.css file within the index.html file in order to apply styling to the presented html code when viewing in browser. Make sure that index.html and assets folder are siblings of one another within the project folder. Next recheck that the css folder, containing style.css, and images folder, containing the jpg and png files, are siblings of one another within the assets folder. 
-## Usage
+Ensure link the style.css file within the index.html file in order to apply styling to the presented html code when viewing in browser. Make sure that index.html and assets folder are siblings of one another within the project folder. Next recheck that the css folder, containing style.css, and images folder, containing the jpg and png files, are siblings of one another within the assets folder.
+
+## Link
 Link to deployed application:
 
 https://yinzhedy.github.io/01-Homework-Horiseon-refactor/
+
+## Sceenshots
 
 The following image demonstrates the web application's appearance and functionality:
 
@@ -25,11 +29,7 @@ The following image demonstrates the web application's appearance and functional
 ## License
 Unlicensed
 
-## Badges
-
-## Features
-
 ## How to Contribute
 Any requests for contribution please contact at yinzhe.dy@gmail.com
 
-## Tests
+
